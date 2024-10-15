@@ -5,7 +5,7 @@ import databaseConnection from "./utils/database.js";
 import cookieParser from "cookie-parser";
 import Router from "./routes/userRoute.js"
 import cors from 'cors';
-import { animeData } from "./controller/browseController.js";
+import { animeData ,topRatedMovies } from "./controller/browseController.js";
 // import User from "./models/userModel.js"
                                                                 
 const app=express();
@@ -15,7 +15,8 @@ dotenv.config({
 }) 
 
 databaseConnection();
-animeData();
+// animeData();
+topRatedMovies();
 
 // MiddleWare
 app.use(cors())

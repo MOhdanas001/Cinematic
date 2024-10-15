@@ -1,22 +1,26 @@
 import React, { useEffect } from "react";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
-import { Carousel } from "react-responsive-carousel";
 import "../CSS/browse.css";
 import { useNavigate } from 'react-router-dom';
-import Slider from "./Slider";
+import { FaPlay } from "react-icons/fa";
+import { AiOutlineInfoCircle } from "react-icons/ai";
+
 import { useDispatch, useSelector } from "react-redux";
 import axios from "axios";
 import { API_ENDPOINT } from "../utils/constant"; 
 import useMovies from "../hooks/useMovies.js";
 import useTopRatedMovies from "../hooks/useTopRatedMovies.js";
+import Slider from "./SliderC.js";
+
+
 
 function Browse() {
 
   const movies=useSelector(store=>store.movie);
   const navigate=useNavigate();
   // const dispatch=useDispatch();
-  // useMovies();
-  // useTopRatedMovies();
+  useMovies();
+  useTopRatedMovies();
 // console.log("hello");
 
   // useEffect(()=>{
@@ -39,55 +43,22 @@ function Browse() {
 
 
   return (
-    <div className="bg-black">   
-      <div className="crousel-container h-full">
-      <Carousel
-        showThumbs={false}
-        infiniteLoop
-        stopOnHover={true}
-        swipeable={true}
-        emulateTouch
-        showStatus={false}
-        showArrows={false}
-        showIndicators={false}
-        autoPlay={true}
-        interval={3000}
-      >
-        <div className="relative">
-          <img src="/joker.jpg" alt="not-found" className="h-full crsl-img" />
-          <img
-            src="/joker-title.png"
-            alt="not-found"
-            className=" absolute title top-52 right-40 h-24"
-          />
-        </div>
-        <div>
-          <img src="/endgame.jpg" alt="not-found" className="h-full crsl-img" />
-          <img
-            src="/Avengers_endgame_logo.png"
-            alt="not-found"
-            className=" absolute title top-52 right-40 h-24"
-          />
-        </div>
-        <div>
-          <img
-            src="/spider-man.jpg"
-            alt="not-found"
-            className="h-full crsl-img"
-          />
-          <img
-            src="/spiderman-title.png"
-            alt="not-found"
-            className=" absolute title top-52 right-40 h-36"
-          />
-        </div>
-      </Carousel>
-      <div>
-        <Slider movies={movies.topRatedMovies} title={"Top Rated Movies"} content={1} />
-        <Slider movies={movies.moviesList} title={"Animates Movies and Shows"} content={2} />
+    <>
+    <div className="hero">
+      <img src="./joker.jpg" alt="background" className="background-image h-[100vh] w-[100vw]"/>
+      <div className="container absolute bottom-32 left-28">
+         <div className="logo ">
+          <img src="./Joker-title.png" alt="title" className="h-[7rem] w-[18rem]" />
+         </div>
+         <div className="button flex space-x-5">
+               <button className="flex justify-center items-center bg-slate-300 p-3"><FaPlay /> Play</button>
+               <button className="flex justify-center items- bg-slate-300 p-3"><AiOutlineInfoCircle />More info </button>
+         </div>
       </div>
     </div>
-    </div>
+    <Slider movies={movies.topRatedMovies}/>
+
+    </>
   );
 }
 
