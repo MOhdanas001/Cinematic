@@ -3,24 +3,20 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 import "../CSS/browse.css";
 import { useNavigate } from "react-router-dom";
 import { FaPlay } from "react-icons/fa";
-import { AiOutlineInfoCircle } from "react-icons/ai";
-import { useDispatch, useSelector } from "react-redux";
+import { MdInfoOutline } from "react-icons/md";
+import { useSelector } from "react-redux";
 import axios from "axios";
 import { API_ENDPOINT } from "../utils/constant";
 import useMovies from "../hooks/useMovies.js";
 import useTopRatedMovies from "../hooks/useTopRatedMovies.js";
-import Slider from "./SliderC.js";
-import { MdInfoOutline } from "react-icons/md";
 import useLatestMovies from "../hooks/useLatestMovies.js";
 import useShows from "../hooks/useShows.js";
-import { Carousel } from 'react-responsive-carousel';
+import { Carousel } from "react-responsive-carousel";
+import Slider from "./SliderC.js";
 
 function Browse() {
   const movies = useSelector((store) => store.movie);
   const navigate = useNavigate();
-
-  // Set loading state
-
   const [isVideoPlaying, setIsVideoPlaying] = useState(false);
 
   // Custom hooks to fetch data
@@ -29,11 +25,10 @@ function Browse() {
   useLatestMovies();
   useShows();
 
-  // Trigger the video to play after 1 second
   useEffect(() => {
     const timer = setTimeout(() => {
       setIsVideoPlaying(true);
-    }, 2000); // 2 seconds delay
+    }, 2000);
 
     return () => clearTimeout(timer);
   }, []);
@@ -45,15 +40,15 @@ function Browse() {
           withCredentials: true,
         });
         if (!response.data.success) {
-          navigate('/login');
+          navigate("/login");
         }
       } catch (error) {
-        console.error('Error checking authentication:', error);
+        console.error("Error checking authentication:", error);
       }
     };
 
     checkAuth();
-  },[navigate]);
+  }, [navigate]);
 
   const setting = {
     infiniteLoop: true,
@@ -63,21 +58,28 @@ function Browse() {
     autoPlay: true,
   };
 
-  
-
   return (
     <>
       <Carousel {...setting}>
-      <div className="hero">
+        <div className="hero relative" style={{ minHeight: "100vh" }}>
           {!isVideoPlaying ? (
             <img
               src="./dragon-ball.jpg"
               alt="background"
-              className="background-image h-[100vh] w-[100vw]s"
+              className="background-image h-full w-full"
+              style={{ position: "absolute", top: 0, left: 0, zIndex: 5 }}
             />
-          ) : ( <video src="./dbz-background.mp4"  autoPlay muted ></video>
+          ) : (
+            <video
+              src="./dbz-background.mp4"
+              autoPlay
+              muted
+              loop
+              className="absolute top-0 left-0 w-full h-full object-cover"
+              style={{ zIndex: 5 }}
+            />
           )}
-          <div className="absolute container inline bottom-64 left-28 w-1/3">
+          <div className="absolute container inline bottom-64 left-28 w-1/3 z-10">
             <div className="logo">
               <img
                 src="./dbz-title.png"
@@ -101,16 +103,39 @@ function Browse() {
             </div>
           </div>
         </div>
-        <div className="hero">
+
+        <div className="hero relative" style={{ minHeight: "100vh" }}>
           {!isVideoPlaying ? (
             <img
               src="./joker.jpg"
               alt="background"
-              className="background-image h-[100vh] w-[100vw]"
+              className="background-image h-full w-full"
+              style={{ position: "absolute", top: 0, left: 0, zIndex: 5 }}
             />
-          ) : ( <video src="./videoplayback.webm" autoPlay muted ></video>
+          ) : (
+            <div className="absolute top-0 left-0 w-full h-full z-10 bg-black">
+             <iframe
+  style={{
+    position: "absolute",
+    top: 0,
+    left: 0,
+    width: "100vw",   // Full viewport width
+    height: "100vh",   // Full viewport height
+    zIndex: 10,
+    border: "none",    // CSS property to remove border
+    margin: 0,         // Remove margin
+    padding: 0         // Remove padding
+  }}
+  src="https://www.youtube.com/embed/_OKAwz2MsJs?si=0qGRWWhpMU85T6RQ&controls=0&autoplay=1&mute=1"
+  title="YouTube video player"
+  allow="accelerometer; autoplay;encrypted-media; "
+  referrerPolicy="strict-origin-when-cross-origin"
+  allowFullScreen
+/>
+
+            </div>
           )}
-          <div className="absolute container inline bottom-64 left-28 w-1/3">
+          <div className="absolute container inline bottom-64 left-28 w-1/3 z-20">
             <div className="logo">
               <img
                 src="./Joker-title.png"
@@ -134,15 +159,16 @@ function Browse() {
             </div>
           </div>
         </div>
-       
-       
       </Carousel>
 
       <div className="bg-black">
         <Slider movies={movies.latestMovies} title={"POPULAR MOVIES"} />
         <Slider movies={movies.tvShows} title={"TV SHOWS"} />
         <Slider movies={movies.topRatedMovies} title={"TOP RATED MOVIES"} />
-        <Slider movies={movies.moviesList} title={"ANIMATED MOVIES AND SHOWS"} />
+        <Slider
+          movies={movies.moviesList}
+          title={"ANIMATED MOVIES AND SHOWS"}
+        />
       </div>
     </>
   );
