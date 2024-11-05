@@ -11,6 +11,7 @@ import { TbAlertTriangleFilled } from "react-icons/tb";
 function Login() {
 
   const [isLogin,setIsLogin]=useState(true);
+
   const [logData, setLogData] = useState({
     email: "",
     password: "",
@@ -39,8 +40,14 @@ function Login() {
 
       if (response.data.success) {
         // dispatch(setUser(response.data.user));
+        const user=response.data.user;
         Cookies.set('token', response.data.token, { expires: 1 });
+        if(user.admin){
+         navigate('/admin-Dashboard');
+        }
+        else{
         navigate('/browse'); 
+        }
         setIsLogin(true);
       }
     
@@ -53,7 +60,6 @@ function Login() {
       }
     }
   };
-
 
   return (
     <div className='home-section flex flex-col bg-opacity-75'>

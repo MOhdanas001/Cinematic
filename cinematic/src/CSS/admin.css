@@ -1,0 +1,20 @@
+
+.dashboard-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .sidebar {
+    margin-right: 20px;
+  }
+  
+  .table-auto th, .table-auto td {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .table-auto th {
+    text-align: left;
+    font-weight: bold;
+  }
+  

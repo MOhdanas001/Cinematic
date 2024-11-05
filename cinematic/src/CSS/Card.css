@@ -1,0 +1,171 @@
+/* Modal container */
+.modal-container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 60vw;
+    max-width: 1200px;
+    height: 80vh;
+    /* background-color: rgb(17, 17, 17); */
+    border-radius: 3px;
+    z-index: 50;
+    overflow-y: auto;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    margin: auto;
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+  }
+  
+  .modal-container::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Modal overlay */
+  .modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.75);
+    z-index: 40;
+  }
+  
+  /* Modal content */
+  .modal-content {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    /* padding: 24px; */
+    color: white;
+  }
+  
+  /* Modal image */
+  .modal-image {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  
+  /* Modal text content */
+  .modal-title {
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 16px;
+    margin-bottom: 8px;
+  }
+  
+  .modal-overview {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 24px;
+    color: rgb(209, 213, 219);
+  }
+  
+  .modal-episodes-title {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 12px;
+  }
+  
+  .modal-episodes-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .modal-episodes-list li {
+    padding: 8px 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    font-size: 16px;
+    color: rgb(209, 213, 219);
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .modal-container {
+      width: 90vw;
+      height: 90vh;
+    }
+    
+    .modal-image {
+      height: 300px;
+    }
+    
+    .modal-title {
+      font-size: 20px;
+    }
+    
+    .modal-overview {
+      font-size: 14px;
+    }
+  }
+
+ .icon-container {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip-wrapper {
+  position: relative;
+  display: inline-block;
+}
+
+.dialog_box {
+  position: absolute;
+  bottom: 120%; /* Position the dialog box above the icon */
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 2px;
+  background: #f4f4f4;
+  /* border: 2px solid #000000; */
+  border-radius: 2px;
+  font-size: 10px;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+  white-space: nowrap;
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.2s;
+  z-index: 10;
+}
+
+.dialog_box:after, .dialog_box:before {
+  border: solid transparent;
+  content: "";
+  height: 0;
+  width: 0;
+  position: absolute;
+}
+
+.dialog_box:after {
+  border-width: 4px;
+}
+
+.dialog_box:before {
+  /* border-width: 2px; */
+}
+
+/* Arrow pointing BOTTOM */
+.dialog_box.bottom:after, .dialog_box.bottom:before {
+  left: 50%;
+  top: 100%;
+}
+
+.dialog_box.bottom:after {
+  border-color: #f4f4f4 transparent transparent transparent;
+  margin-left: -4px;
+}
+
+.dialog_box.bottom:before {
+  /* border-color: #000000 transparent transparent transparent; */
+  margin-left: -8px;
+}
+
+/* Show tooltip on hover */
+.tooltip-wrapper:hover .dialog_box {
+  visibility: visible;
+  opacity: 1;
+}

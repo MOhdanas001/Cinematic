@@ -12,7 +12,7 @@ const animeSchema = new mongoose.Schema({
   type: { type: String, required: true },
   aired_on: { type: String, required: true },
   members: { type: Number, required: true },
-}, { collection: 'anime_data' }); // Explicitly set the collection name
+}, { collection: 'anime_data' }); 
 
 // Export the AnimeData model
 const AnimeData = mongoose.model("AnimeData", animeSchema);

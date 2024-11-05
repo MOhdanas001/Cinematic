@@ -4,6 +4,7 @@ import bcryptjs from "bcryptjs";
 import jwt from "jsonwebtoken";
 
 
+//Register User Function
 export const register = async (req, res) => {
   try {
     const { name, email, password } = req.body;
@@ -41,9 +42,7 @@ export const register = async (req, res) => {
   }
 };
 
-const ACCESS_TOKEN_SECRET = process.env.ACCESS_TOKEN_SECRET
-
-
+//User login function
 export const login = async (req, res) => {
   try {
     const { email, password } = req.body;
@@ -100,10 +99,10 @@ export const login = async (req, res) => {
 
 export const logout = async (req, res) => {
   try {
-    // Clear the cookie by setting it with an expired date
+   
     res.cookie('token', '', { 
       httpOnly: true, 
-      expires: new Date(0)  // Set expiration to a past date
+      expires: new Date(0)  
     });
     
     return res.status(200).json({ 
@@ -118,23 +117,19 @@ export const logout = async (req, res) => {
   }
 };
 
-
+//Check user authentication
 export const checkauth = async (req,res)=>{
 
-
   const token=req.cookies.token;
-
- 
+  // console.log(token);
   if(!token){
     return res.status(200).json({ message: 'No token provided', success: false });
   }
 
   try{
+
     const decoded= jwt.verify(token,"kdhbskryedvgdssdcds");
-
-
     const user=await User.findById(decoded.userId);
-    console.log(decoded.userId);
 
     if(!user){
       return res.status(200).json({ message: 'Invalid token', success: false });
@@ -147,3 +142,23 @@ export const checkauth = async (req,res)=>{
   }
 
 }
+
+// import { MongoClient } from 'mongodb';
+
+
+
+// const agg = [
+//   {
+//     '$set': {
+//       'type': 1
+//     }
+//   }
+// ];
+
+// const client = await MongoClient.connect(
+//   ''
+// );
+// const coll = client.db('test').collection('anime_data');
+// const cursor = coll.aggregate(agg);
+// const result = await cursor.toArray();
+// await client.close();

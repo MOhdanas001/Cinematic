@@ -1,0 +1,1012 @@
+[
+    {
+        "id": 256121,
+        "adult": false,
+        "genres": [
+            "Action & Adventure",
+            "Drama"
+        ],
+        "title": "Lavender Fields",
+        "originalName": "Lavender Fields",
+        "firstAirDate": "2024-09-02",
+        "image": "https://image.tmdb.org/t/p/w500/lphvsr062SlxWM6XegsV2dLGaiE.jpg",
+        "overview": "Jasmin loved her idyllic life in her mountain town, but a brush with a criminal empire took it all away. Now she's out for revenge with a new identity.",
+        "voteAverage": 0.0,
+        "voteCount": 0,
+        "popularity": 2057.279,
+        "originalLanguage": "tl"
+    },
+    {
+        "id": 242931,
+        "adult": false,
+        "genres": [
+            "Action & Adventure",
+            "Drama",
+            "Family",
+            "War & Politics"
+        ],
+        "title": "Pulang Araw",
+        "originalName": "Pulang Araw",
+        "firstAirDate": "2024-07-29",
+        "image": "https://image.tmdb.org/t/p/w500/2zbaRzgieKiHYkTGztQUzrAYbgb.jpg",
+        "overview": "Red Sun is a family drama that tells stories of courage, sacrifice, and hardships that every Filipino family has. These stories were inspired by the tales of the unsung heroes who defied the odds of World War II and the Japanese occupation of the Philippines.",
+        "voteAverage": 6.8,
+        "voteCount": 11,
+        "popularity": 3400.175,
+        "originalLanguage": "tl"
+    },
+    {
+        "id": 247174,
+        "adult": false,
+        "genres": [
+            "Drama"
+        ],
+        "title": "El Conde: Amor y Honor",
+        "originalName": "El Conde: Amor y Honor",
+        "firstAirDate": "2024-07-01",
+        "image": "https://image.tmdb.org/t/p/w500/lwcTD8hRx5Ch4sAmjNHmWigkaND.jpg",
+        "overview": "A wrongful conviction changes the life of Alejandro Gaitán and separates him from the woman he loves, Mariana Zambrano. After 17 years in jail, he becomes a count with the help of another prisoner and seeks revenge on those who turned on him.",
+        "voteAverage": 7.897,
+        "voteCount": 29,
+        "popularity": 2948.661,
+        "originalLanguage": "en"
+    },
+    {
+        "id": 247884,
+        "adult": false,
+        "genres": [
+            "Action & Adventure",
+            "Drama",
+            "Family",
+            "Sci-Fi & Fantasy",
+            "Soap"
+        ],
+        "title": "Fugitivas, en busca de la libertad",
+        "originalName": "Fugitivas, en busca de la libertad",
+        "firstAirDate": "2024-07-01",
+        "image": "https://image.tmdb.org/t/p/w500/oqHWSZmoCgz7JPsbNXihASGnfLW.jpg",
+        "overview": "Lorena, Frida, Lisset and Montse, four friends who are in prison serving a sentence. One of them is accused unjustly. In the prison where they are held there is a massive escape and they escape. After their escape, the fugitives take refuge in a bar looking for the opportunity to start a new life.",
+        "voteAverage": 7.6,
+        "voteCount": 20,
+        "popularity": 2764.185,
+        "originalLanguage": "es"
+    },
+    {
+        "id": 252373,
+        "adult": false,
+        "genres": [
+            "Drama"
+        ],
+        "title": "A Promessa",
+        "originalName": "A Promessa",
+        "firstAirDate": "2024-06-18",
+        "image": "https://image.tmdb.org/t/p/w500/uptgxt2apx5wwWItQzqL0HwhjZC.jpg",
+        "overview": "",
+        "voteAverage": 8.0,
+        "voteCount": 2,
+        "popularity": 2291.315,
+        "originalLanguage": "pt"
+    },
+    {
+        "id": 249010,
+        "adult": false,
+        "genres": [
+            "Soap"
+        ],
+        "title": "Kelders van Geheime",
+        "originalName": "Kelders van Geheime",
+        "firstAirDate": "2024-05-06",
+        "image": "https://image.tmdb.org/t/p/w500/vf1I0G5jICTstI1EXxb9Oqq80TU.jpg",
+        "overview": "Kelders van Geheime (Cellars of Secrets) is a South African, Afrikaans-language telenovela based on the wheeling's and dealings of the community that lives on Soebatskloof (a wine farm in the Cape). The series focuses on three families: the Abrahams, Syster and Marais households. These families will have to stand together, agree (or agree to disagree), and work together to earn their bread and butter – and a glass of wine.",
+        "voteAverage": 7.2,
+        "voteCount": 5,
+        "popularity": 2617.306,
+        "originalLanguage": "af"
+    },
+    {
+        "id": 255150,
+        "adult": false,
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ],
+        "title": "Pituca Sin Lucas",
+        "originalName": "Pituca Sin Lucas",
+        "firstAirDate": "2024-05-06",
+        "image": "https://image.tmdb.org/t/p/w500/cjqJqODyUbul2GZL7ti2B5SVv7I.jpg",
+        "overview": "",
+        "voteAverage": 8.5,
+        "voteCount": 2,
+        "popularity": 2089.151,
+        "originalLanguage": "es"
+    },
+    {
+        "id": 250716,
+        "adult": false,
+        "genres": [
+            "Reality"
+        ],
+        "title": "¿Ganar o servir?",
+        "originalName": "¿Ganar o servir?",
+        "firstAirDate": "2024-04-21",
+        "image": "https://image.tmdb.org/t/p/w500/7ZhXzKBXNuFictb3XE2HZDLN9tl.jpg",
+        "overview": "",
+        "voteAverage": 8.5,
+        "voteCount": 2,
+        "popularity": 2446.303,
+        "originalLanguage": "es"
+    },
+    {
+        "id": 248890,
+        "adult": false,
+        "genres": [
+            "Reality"
+        ],
+        "title": "Ready Steady Cook South Africa",
+        "originalName": "Ready Steady Cook South Africa",
+        "firstAirDate": "2024-03-18",
+        "image": "https://image.tmdb.org/t/p/w500/30xX4IMbgnMbQwo76xM4BOSokZO.jpg",
+        "overview": "In Ready Steady Cook, two teams - a Red Tomato and a Green Pepper - compete in a Red Kitchen and a Green Kitchen, together with a South African chef on each side and paired with enthusiastic home cooks, as they are challenged creatively with a mystery bag of ingredients in a 20-minute cook-off.",
+        "voteAverage": 2.667,
+        "voteCount": 3,
+        "popularity": 2598.468,
+        "originalLanguage": "en"
+    },
+    {
+        "id": 243117,
+        "adult": false,
+        "genres": [
+            "Drama",
+            "Soap"
+        ],
+        "title": "Plus belle la vie, encore plus belle",
+        "originalName": "Plus belle la vie, encore plus belle",
+        "firstAirDate": "2024-01-08",
+        "image": "https://image.tmdb.org/t/p/w500/5js5JCtxfiYF2MdNn0zGyCwyg8L.jpg",
+        "overview": "",
+        "voteAverage": 5.1,
+        "voteCount": 10,
+        "popularity": 3350.212,
+        "originalLanguage": "fr"
+    },
+    {
+        "id": 218145,
+        "adult": false,
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "title": "Mom for rent",
+        "originalName": "Mama na prenájom",
+        "firstAirDate": "2023-01-09",
+        "image": "https://image.tmdb.org/t/p/w500/fH7PP2Rkdlo414IHvZABBHhtoqd.jpg",
+        "overview": "Abandoned by his wife, Martin is lying to his daughter not to be upset. But as Hanka grows, these lies become unbearable. Martin meets Nada unexpectedly, asked her to be a rent-a-mother and all lives are completely changed.",
+        "voteAverage": 5.0,
+        "voteCount": 25,
+        "popularity": 3122.9,
+        "originalLanguage": "sk"
+    },
+    {
+        "id": 122653,
+        "adult": false,
+        "genres": [
+            "Comedy",
+            "Talk"
+        ],
+        "title": "Gutfeld!",
+        "originalName": "Gutfeld!",
+        "firstAirDate": "2021-04-05",
+        "image": "https://image.tmdb.org/t/p/w500/9zLuN3MfvTcABYYNJq5PkIG81S5.jpg",
+        "overview": "Greg Gutfeld examines the news of the day through a satiric lens fused with pop culture.",
+        "voteAverage": 6.0,
+        "voteCount": 8,
+        "popularity": 2184.937,
+        "originalLanguage": "en"
+    },
+    {
+        "id": 121290,
+        "adult": false,
+        "genres": [
+            "Reality"
+        ],
+        "title": "Guido's Deko Queen",
+        "originalName": "Guido's Deko Queen",
+        "firstAirDate": "2021-03-17",
+        "image": "https://image.tmdb.org/t/p/w500/zsXJ1nI79eNACc4ZUZm8kKU2HHA.jpg",
+        "overview": "",
+        "voteAverage": 3.8,
+        "voteCount": 3,
+        "popularity": 2222.643,
+        "originalLanguage": "de"
+    },
+    {
+        "id": 112470,
+        "adult": false,
+        "genres": [
+            "Drama",
+            "Soap"
+        ],
+        "title": "Ici tout commence",
+        "originalName": "Ici tout commence",
+        "firstAirDate": "2020-11-02",
+        "image": "https://image.tmdb.org/t/p/w500/yuTHx38jpogXovMhqNatvozigMJ.jpg",
+        "overview": "This television drama series is centered around the prestigious culinary school of renowned chef Auguste Armand. The show follows the lives of students and staff as they navigate the challenges and pressures of the culinary world—delving into their personal and professional lives, revealing secrets, rivalries, and complex relationships.",
+        "voteAverage": 6.933,
+        "voteCount": 52,
+        "popularity": 4113.865,
+        "originalLanguage": "fr"
+    },
+    {
+        "id": 81329,
+        "adult": false,
+        "genres": [
+            "Soap"
+        ],
+        "title": "Chronicles of the Sun",
+        "originalName": "Un si grand soleil",
+        "firstAirDate": "2018-08-27",
+        "image": "https://image.tmdb.org/t/p/w500/t6jVlbPMtZOJoAOfeoR4yQmnjXM.jpg",
+        "overview": "Claire is surprised when she gets arrested for the murder of her childhood friend after she returns to Montpellier.",
+        "voteAverage": 7.049,
+        "voteCount": 92,
+        "popularity": 3424.808,
+        "originalLanguage": "fr"
+    },
+    {
+        "id": 82708,
+        "adult": false,
+        "genres": [
+            "Drama",
+            "Soap"
+        ],
+        "title": "The First Years",
+        "originalName": "Brugklas",
+        "firstAirDate": "2014-05-26",
+        "image": "https://image.tmdb.org/t/p/w500/klPqN1oITjVub0Yss0Kqnx8NfY3.jpg",
+        "overview": "The First Years is a Dutch series for young people in which real-life situations are recreated. The series sheds light on subjects that pupils in the first year of secondary school may be confronted with.",
+        "voteAverage": 4.9,
+        "voteCount": 7,
+        "popularity": 3129.739,
+        "originalLanguage": "nl"
+    },
+    {
+        "id": 36361,
+        "adult": false,
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "title": "Ulice",
+        "originalName": "Ulice",
+        "firstAirDate": "2005-09-05",
+        "image": "https://image.tmdb.org/t/p/w500/gFEHva8Csx18hMGJJZ6gi4sFSKR.jpg",
+        "overview": "Ulice is a Czech soap opera produced and broadcast by Nova. In the Czech language Ulice means street.\n\nThe show describes the lives of the Farský, Jordán, Boháč, Nikl, and Liška families and many other people that live in Prague. Their daily battle against real problems of living in a modern world like divorce, love, betrayal and illness or disease. Ulice often shows crime.",
+        "voteAverage": 3.6,
+        "voteCount": 20,
+        "popularity": 2433.926,
+        "originalLanguage": "cs"
+    },
+    {
+        "id": 8892,
+        "adult": false,
+        "genres": [
+            "Reality"
+        ],
+        "title": "Pinoy Big Brother",
+        "originalName": "Pinoy Big Brother",
+        "firstAirDate": "2005-08-21",
+        "image": "https://image.tmdb.org/t/p/w500/zUva0cs2SOjoxFPpwINbpevzoax.jpg",
+        "overview": "The Philippine adaptation of the reality game show \"Big Brother\" features Filipino housemates live together, share their stories and build meaningful relationships as they do tasks and challenges supervised by Big Brother. Every week a nomination is done, and the public decides who gets evicted and eventually become the Big Winner of the program.",
+        "voteAverage": 5.6,
+        "voteCount": 8,
+        "popularity": 2506.932,
+        "originalLanguage": "tl"
+    },
+    {
+        "id": 4682,
+        "adult": false,
+        "genres": [],
+        "title": "Strictly Come Dancing: It Takes Two",
+        "originalName": "Strictly Come Dancing: It Takes Two",
+        "firstAirDate": "2004-10-25",
+        "image": "https://image.tmdb.org/t/p/w500/1UOKLsJ3bopZHg6ntRfmO4C5Gcm.jpg",
+        "overview": "The companion show to the popular BBC One programme Strictly Come Dancing which features interviews and training footage of the couples competing in the main Saturday night show, opinions from the judges on the previous Saturday show and the training footage for the next, and interviews with celebrities who have been watching the show.",
+        "voteAverage": 4.5,
+        "voteCount": 4,
+        "popularity": 2803.203,
+        "originalLanguage": "en"
+    },
+    {
+        "id": 94722,
+        "adult": false,
+        "genres": [
+            "News"
+        ],
+        "title": "Tagesschau",
+        "originalName": "Tagesschau",
+        "firstAirDate": "1952-12-26",
+        "image": "https://image.tmdb.org/t/p/w500/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+        "overview": "German daily news program, the oldest still existing program on German television.",
+        "voteAverage": 6.757,
+        "voteCount": 204,
+        "popularity": 2454.861,
+        "originalLanguage": "de"
+    },
+    {
+        "id": 138501,
+        "adult": false,
+        "genres": [
+            "Action & Adventure",
+            "Mystery",
+            "Sci-Fi & Fantasy"
+        ],
+        "title": "Agatha All Along",
+        "originalName": "Agatha All Along",
+        "firstAirDate": "2024-09-18",
+        "image": "https://image.tmdb.org/t/p/w500/1tfCj5h0FEQ5xg8hzVjQgcuGlgN.jpg",
+        "overview": "Agatha Harkness gathers a coven of witches and sets off down, down, down The Witches' Road.",
+        "voteAverage": 7.535,
+        "voteCount": 254,
+        "popularity": 1875.136,
+        "originalLanguage": "en"
+    },
+    {
+        "id": 258577,
+        "adult": false,
+        "genres": [
+            "Drama"
+        ],
+        "title": "Despite the law",
+        "originalName": "برغم القانون",
+        "firstAirDate": "2024-09-15",
+        "image": "https://image.tmdb.org/t/p/w500/zmLt8uqxUbWEYhhZt952lMUo7YC.jpg",
+        "overview": "In a dramatic context, Laila works as a lawyer and lives in the city of Port Said. She wakes up one day to find that her husband has disappeared. After a search trip, she discovers that he ran away, leaving behind two children, Laila and Hashem, after ten years of marriage. She tries to find out the secret of his escape despite the great love story between them.",
+        "voteAverage": 0.0,
+        "voteCount": 0,
+        "popularity": 1750.378,
+        "originalLanguage": "ar"
+    },
+    {
+        "id": 237478,
+        "adult": false,
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Soap"
+        ],
+        "title": "Mania de Você",
+        "originalName": "Mania de Você",
+        "firstAirDate": "2024-09-09",
+        "image": "https://image.tmdb.org/t/p/w500/xq1X6H8pupwx0jeZpu4Piq0V5uL.jpg",
+        "overview": "The story will revolve around the friendship between two young women, Viola and Luma, who seem destined to literally enter each others lives. Born on the same day under very different circumstances, they meet years later, connected by coincidences that go beyond their shared birthday.\n\nA journey marked by both complicity and rivalry, placing them in a romantic quartet with Mavi and Rudá, and shaped by a series of circumstances, twists, and surprises, including a secret surrounding a murder.",
+        "voteAverage": 0.0,
+        "voteCount": 0,
+        "popularity": 1809.465,
+        "originalLanguage": "pt"
+    },
+    {
+        "id": 261033,
+        "adult": false,
+        "genres": [
+            "Action & Adventure",
+            "Drama"
+        ],
+        "title": "The Agent",
+        "originalName": "العميل",
+        "firstAirDate": "2024-08-18",
+        "image": "https://image.tmdb.org/t/p/w500/qUtgaa43jTELs0Tdw55aIukt9yn.jpg",
+        "overview": "A police captain infiltrates a notorious gang, only to find himself going deeper down the rabbit hole.",
+        "voteAverage": 0.5,
+        "voteCount": 1,
+        "popularity": 1786.577,
+        "originalLanguage": "ar"
+    },
+    {
+        "id": 256429,
+        "adult": false,
+        "genres": [
+            "Action & Adventure",
+            "Drama"
+        ],
+        "title": "Pamilya Sagrado",
+        "originalName": "Pamilya Sagrado",
+        "firstAirDate": "2024-06-17",
+        "image": "https://image.tmdb.org/t/p/w500/hlRhstt3Du57qm4A30w7RkHqEXg.jpg",
+        "overview": "The members of the Sagrado family live to prove they are the most powerful and influential, stopping at nothing to bury dirty secrets to keep their title faultless and sacred.",
+        "voteAverage": 9.0,
+        "voteCount": 1,
+        "popularity": 2040.389,
+        "originalLanguage": "tl"
+    },
+    {
+        "id": 239526,
+        "adult": false,
+        "genres": [
+            "Drama"
+        ],
+        "title": "Sueños de libertad",
+        "originalName": "Sueños de libertad",
+        "firstAirDate": "2024-02-25",
+        "image": "https://image.tmdb.org/t/p/w500/95RVeMWMvk97PBW0msryIJC32XD.jpg",
+        "overview": "",
+        "voteAverage": 6.3,
+        "voteCount": 13,
+        "popularity": 1826.107,
+        "originalLanguage": "es"
+    },
+    {
+        "id": 242099,
+        "adult": false,
+        "genres": [
+            "Soap"
+        ],
+        "title": "Lady of the sea",
+        "originalName": "Senhora do Mar",
+        "firstAirDate": "2024-02-05",
+        "image": "https://image.tmdb.org/t/p/w500/wy4tkwuoWMGEa5Wi8dCvLVuxBzt.jpg",
+        "overview": "On her birthday, Joana's joy turns to despair when her abusive husband discovers her pregnancy and attempts to harm her. Fleeing the city, she finds refuge on a boat with criminals, but realizing the danger, she sees land beyond so leaps into the water and swims to Terceira Island, leaving her life behind. Exhausted on the shore, she encounters Chico, a lost child, during a religious ceremony. Joana arrives with the child, inadvertently becoming mistaken for a saint 'Our Lady of the Sea', revered by the island's faithful.",
+        "voteAverage": 6.65,
+        "voteCount": 10,
+        "popularity": 1645.395,
+        "originalLanguage": "pt"
+    },
+    {
+        "id": 242101,
+        "adult": false,
+        "genres": [
+            "Soap"
+        ],
+        "title": "Cacau",
+        "originalName": "Cacau",
+        "firstAirDate": "2024-01-15",
+        "image": "https://image.tmdb.org/t/p/w500/nNCFBKZ68fmr008moWSzLdu2mUP.jpg",
+        "overview": "Cacau is an engaging saga of family secrets, clandestine loves and sacrifices, all sweetened by the irresistible taste of chocolate and the magic of cocoa plantations.",
+        "voteAverage": 5.3,
+        "voteCount": 18,
+        "popularity": 1667.149,
+        "originalLanguage": "pt"
+    },
+    {
+        "id": 242551,
+        "adult": false,
+        "genres": [
+            "Drama"
+        ],
+        "title": "Winds of Love",
+        "originalName": "Rüzgarlı Tepe",
+        "firstAirDate": "2024-01-01",
+        "image": "https://image.tmdb.org/t/p/w500/vGrrdx21rS69tl55mxpl9pn9ebx.jpg",
+        "overview": "Zeynep is the smart, well-behaved, exemplary daughter of the wealthiest family in the town where she lives, while Halil is a young man who lost his mother and father at an early age and lives with his aunt with a grudge to avenge his family. These two young people who live despite their families will find themselves in an unthinkable blind knot.",
+        "voteAverage": 7.3,
+        "voteCount": 19,
+        "popularity": 1629.656,
+        "originalLanguage": "tr"
+    },
+    {
+        "id": 235493,
+        "adult": false,
+        "genres": [
+            "Reality"
+        ],
+        "title": "De Bondgenoten",
+        "originalName": "De Bondgenoten",
+        "firstAirDate": "2023-10-22",
+        "image": "https://image.tmdb.org/t/p/w500/wsipinibYxrZhpkQ6MKxIMgL0hv.jpg",
+        "overview": "",
+        "voteAverage": 6.684,
+        "voteCount": 19,
+        "popularity": 1871.163,
+        "originalLanguage": "nl"
+    },
+    {
+        "id": 124364,
+        "adult": false,
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Sci-Fi & Fantasy"
+        ],
+        "title": "FROM",
+        "originalName": "FROM",
+        "firstAirDate": "2022-02-20",
+        "image": "https://image.tmdb.org/t/p/w500/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
+        "overview": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
+        "voteAverage": 8.162,
+        "voteCount": 1260,
+        "popularity": 1700.989,
+        "originalLanguage": "en"
+    },
+    {
+        "id": 154828,
+        "adult": false,
+        "genres": [
+            "Talk"
+        ],
+        "title": "Vandaag Inside",
+        "originalName": "Vandaag Inside",
+        "firstAirDate": "2022-01-10",
+        "image": "https://image.tmdb.org/t/p/w500/xEFfIcHzlxiYw8e6hXRCqskSKsG.jpg",
+        "overview": "",
+        "voteAverage": 5.1,
+        "voteCount": 7,
+        "popularity": 1301.652,
+        "originalLanguage": "nl"
+    },
+    {
+        "id": 134156,
+        "adult": false,
+        "genres": [
+            "Reality"
+        ],
+        "title": "Love Island",
+        "originalName": "Love Island",
+        "firstAirDate": "2021-09-18",
+        "image": "https://image.tmdb.org/t/p/w500/p10tBxVHtHfSfbYOpqDZTMSvVLN.jpg",
+        "overview": "",
+        "voteAverage": 4.0,
+        "voteCount": 7,
+        "popularity": 1674.81,
+        "originalLanguage": "cs"
+    },
+    {
+        "id": 206679,
+        "adult": false,
+        "genres": [
+            "Family",
+            "Reality"
+        ],
+        "title": "Na lovu",
+        "originalName": "Na lovu",
+        "firstAirDate": "2021-08-16",
+        "image": "https://image.tmdb.org/t/p/w500/udJ1wVuOwFg1q6UBcQGwcpcdIYF.jpg",
+        "overview": "Na Lovu is a Czech game-show, based on the license of the popular global format The Chase. A heart-racing quiz show where four competitors must pit their wits and face off against Lovec (the Chaser), a ruthless quiz genius determined to stop them from winning cash prizes.",
+        "voteAverage": 5.9,
+        "voteCount": 8,
+        "popularity": 1116.137,
+        "originalLanguage": "cs"
+    },
+    {
+        "id": 136166,
+        "adult": false,
+        "genres": [
+            "Reality"
+        ],
+        "title": "Lang Leve de Liefde",
+        "originalName": "Lang Leve de Liefde",
+        "firstAirDate": "2020-01-20",
+        "image": "https://image.tmdb.org/t/p/w500/9lpvvzEl5kViIc2vUJG4QKzj2ds.jpg",
+        "overview": "",
+        "voteAverage": 5.7,
+        "voteCount": 7,
+        "popularity": 1668.641,
+        "originalLanguage": "nl"
+    },
+    {
+        "id": 72879,
+        "adult": false,
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "title": "Tomorrow Is Ours",
+        "originalName": "Demain nous appartient",
+        "firstAirDate": "2017-07-17",
+        "image": "https://image.tmdb.org/t/p/w500/zMWldNZF0wS3L5XkDVFHxYhclcL.jpg",
+        "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
+        "voteAverage": 6.2,
+        "voteCount": 61,
+        "popularity": 1977.8,
+        "originalLanguage": "fr"
+    },
+    {
+        "id": 91759,
+        "adult": false,
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ],
+        "title": "Come Home Love: Lo and Behold",
+        "originalName": "愛·回家之開心速遞",
+        "firstAirDate": "2017-02-06",
+        "image": "https://image.tmdb.org/t/p/w500/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
+        "overview": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only concern now are his three daughters. His eldest daughter has immigrated overseas. His second daughter Hung Yeuk Shui has reached the marriageable age, but has no hopes for marriage anytime soon. She is constantly bickering with her younger sister Hung Sum Yue, who is an honour student, over trivial matters, causing their father to not know whether to laugh or cry. Hung Sue Yan, Hung Sue Gan's brother, moves in with the family, temporarily ending his life as a nomadic photographer. He joins Hung Yeuk Shui's company and encounters Ko Pak Fei, the director of an online shop. The two appear to be former lovers, making for lots of laughter. Since Hung Sue Yan moved in, a series of strange events have occurred in the family. Upon investigation, the source is traced to Lung Ging Fung, a promising young man who is the son of department store mogul Lung Gam Wai.",
+        "voteAverage": 5.1,
+        "voteCount": 38,
+        "popularity": 1696.725,
+        "originalLanguage": "cn"
+    },
+    {
+        "id": 235484,
+        "adult": false,
+        "genres": [
+            "Soap"
+        ],
+        "title": "Suidooster",
+        "originalName": "Suidooster",
+        "firstAirDate": "2015-11-16",
+        "image": "https://image.tmdb.org/t/p/w500/naCgSiacvV685kait6fBvhVhdce.jpg",
+        "overview": "Suidooster is a South African television soap opera produced by Suidooster Films which revolves around a matriarch, her family, friends and the people of Suidooster, a small shopping and business centre in the fictional Cape Town suburb of Ruiterbosch.",
+        "voteAverage": 7.563,
+        "voteCount": 16,
+        "popularity": 1981.212,
+        "originalLanguage": "af"
+    },
+    {
+        "id": 206559,
+        "adult": false,
+        "genres": [
+            "Soap"
+        ],
+        "title": "Binnelanders",
+        "originalName": "Binnelanders",
+        "firstAirDate": "2005-10-13",
+        "image": "https://image.tmdb.org/t/p/w500/3bzECfllho8PphdYujLUIuhncJD.jpg",
+        "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+        "voteAverage": 5.6,
+        "voteCount": 73,
+        "popularity": 2085.17,
+        "originalLanguage": "af"
+    },
+    {
+        "id": 18770,
+        "adult": false,
+        "genres": [
+            "Reality"
+        ],
+        "title": "Gran hermano",
+        "originalName": "Gran hermano",
+        "firstAirDate": "2000-04-23",
+        "image": "https://image.tmdb.org/t/p/w500/gQ0Emh2LT047Fip2HWye3NkrkQB.jpg",
+        "overview": "Gran Hermano is a reality television series broadcast in Spain on Telecinco and La Siete produced by Endemol. It is part of the Big Brother franchise first developed in the Netherlands. As of February 2012, 19 editions of the show have aired.",
+        "voteAverage": 3.8,
+        "voteCount": 4,
+        "popularity": 1913.448,
+        "originalLanguage": "es"
+    },  {
+        "id": 236994,
+        "adult": false,
+        "genres": [
+            "Action & Adventure",
+            "Animation",
+            "Comedy",
+            "Sci-Fi & Fantasy"
+        ],
+        "title": "Dragon Ball DAIMA",
+        "originalName": "ドラゴンボールDAIMA",
+        "firstAirDate": "2024-10-11",
+        "image": "https://image.tmdb.org/t/p/w500/cIDPZMGsiVHkHA6HPJmEmGcgyyw.jpg",
+        "overview": "Mysteriously transformed into mini versions of themselves, Goku and his friends travel to the Demon Realm to uncover the truth and find a cure.",
+        "voteAverage": 8.3,
+        "voteCount": 47,
+        "popularity": 831.675,
+        "originalLanguage": "ja"
+    },
+    {
+        "id": 247721,
+        "adult": false,
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Sci-Fi & Fantasy"
+        ],
+        "title": "Teacup",
+        "originalName": "Teacup",
+        "firstAirDate": "2024-10-10",
+        "image": "https://image.tmdb.org/t/p/w500/emeFo6OW5tE0BISzx0HEdVqOOgG.jpg",
+        "overview": "Trapped on a farm in rural Georgia, a group of neighbours must put aside their differences and unite in the face of a mysterious and deadly threat.",
+        "voteAverage": 8.333,
+        "voteCount": 21,
+        "popularity": 973.151,
+        "originalLanguage": "en"
+    },
+    {
+        "id": 257812,
+        "adult": false,
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "title": "Tita Zuzu",
+        "originalName": "تيتا زوزو",
+        "firstAirDate": "2024-09-21",
+        "image": "https://image.tmdb.org/t/p/w500/6M3I0mF60Na6nfQGCuU0POs7Dr6.jpg",
+        "overview": "Within a social dramatic framework, the events deal with the story of the widowed grandmother Zuzu, who worked in agriculture and had two sons and two daughters. We follow her relationship with her grandchildren, and her dealings with them and the problems they face.",
+        "voteAverage": 0.0,
+        "voteCount": 0,
+        "popularity": 509.293,
+        "originalLanguage": "ar"
+    },
+    {
+        "id": 194764,
+        "adult": false,
+        "genres": [
+            "Action & Adventure",
+            "Crime",
+            "Drama"
+        ],
+        "title": "The Penguin",
+        "originalName": "The Penguin",
+        "firstAirDate": "2024-09-19",
+        "image": "https://image.tmdb.org/t/p/w500/a2fqompEWB2GFp9GOdlqLcfEFfw.jpg",
+        "overview": "Witness the The Penguin's rise to power in Gotham's criminal underworld in the aftermath of the Riddler killings.",
+        "voteAverage": 8.4,
+        "voteCount": 191,
+        "popularity": 784.267,
+        "originalLanguage": "en"
+    },
+    {
+        "id": 262364,
+        "adult": false,
+        "genres": [
+            "Drama"
+        ],
+        "title": "Sjene prošlosti",
+        "originalName": "Sjene prošlosti",
+        "firstAirDate": "2024-09-02",
+        "image": "https://image.tmdb.org/t/p/w500/ycZgG9FG8dP4MwUSBvDXCagpoTa.jpg",
+        "overview": "",
+        "voteAverage": 0.0,
+        "voteCount": 0,
+        "popularity": 1409.234,
+        "originalLanguage": "hr"
+    },
+    {
+        "id": 262252,
+        "adult": false,
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ],
+        "title": "KLASS 95: The Power of Beauty",
+        "originalName": "Klass 95: El poder de la belleza",
+        "firstAirDate": "2024-08-20",
+        "image": "https://image.tmdb.org/t/p/w500/dsEtoQtIurztGFs3H9vsa5Tdw2R.jpg",
+        "overview": "An ambitious young woman launches a powerful modeling agency determined to change lives — but power and love are not for the faint of heart.",
+        "voteAverage": 6.857,
+        "voteCount": 7,
+        "popularity": 1065.432,
+        "originalLanguage": "es"
+    },
+    {
+        "id": 248155,
+        "adult": false,
+        "genres": [
+            "Drama"
+        ],
+        "title": "The Brave Yong Su Jeong",
+        "originalName": "용감무쌍 용수정",
+        "firstAirDate": "2024-05-06",
+        "image": "https://image.tmdb.org/t/p/w500/v0Ld4z1pn61Ojb6ujfsyTZoFNPV.jpg",
+        "overview": "An ingenuous home-shopping host Yong Sujeong dreams of becoming a successful businesswoman who wins people before money. After losing her parents as a kid, she travels around the country with tinker Yong Jangwon and grows up as a strong woman full of courage. She may look fierce on the outside, but in fact, she is a softhearted, clumsy crybaby and a dork who cannot even make eye contact with her crush, Ju Ujin. Meanwhile, there is Yeo Uiju, a man who gets on her nerves by loafing around her. As a soldier, he is more logical rather than empathetic, but he passes out whenever he gets drunk. He loses his face after meeting Sujeong, who drinks like a fish, but he starts to fall for her. By a twist of fate, he realizes he is the second grandson of Masung Group, and his older brother is Sujeong's crush, Ujin.",
+        "voteAverage": 7.2,
+        "voteCount": 5,
+        "popularity": 1299.264,
+        "originalLanguage": "ko"
+    },
+    {
+        "id": 212907,
+        "adult": false,
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Soap"
+        ],
+        "title": "La Promesa",
+        "originalName": "La Promesa",
+        "firstAirDate": "2023-01-12",
+        "image": "https://image.tmdb.org/t/p/w500/y656ZhHU2Hh3bmC5vBtMa2vKpUM.jpg",
+        "overview": "In 1913 Spain, a woman gets a job at the palace of La Promesa as a reward for saving the marquesses' son - but nobody knows that she has her own plans, which involve avenging her mother's death and finding her missing brother.",
+        "voteAverage": 7.455,
+        "voteCount": 22,
+        "popularity": 999.092,
+        "originalLanguage": "es"
+    },
+    {
+        "id": 153312,
+        "adult": false,
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "title": "Tulsa King",
+        "originalName": "Tulsa King",
+        "firstAirDate": "2022-11-13",
+        "image": "https://image.tmdb.org/t/p/w500/zMFAdj30K84Sz90bCd6ePwiAO37.jpg",
+        "overview": "Just after he is released from prison after 25 years, New York mafia capo Dwight “The General” Manfredi is unceremoniously exiled by his boss to set up shop in Tulsa, Okla. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a “crew” from a group of unlikely characters, to help him establish a new criminal empire in a place that to him might as well be another planet.",
+        "voteAverage": 8.389,
+        "voteCount": 1779,
+        "popularity": 765.684,
+        "originalLanguage": "en"
+    },
+    {
+        "id": 210865,
+        "adult": false,
+        "genres": [
+            "Drama",
+            "Family"
+        ],
+        "title": "Golden Boy",
+        "originalName": "Yalı Çapkını",
+        "firstAirDate": "2022-09-23",
+        "image": "https://image.tmdb.org/t/p/w500/rgVpYd3ERRPFdkUzQesBIorG39z.jpg",
+        "overview": "A young girl is forced to marry a rich groom. The groom is not only rich, but also allows himself to live without any restrictions or obligations. Will married life change his habits? And how will such a man be accepted by a good-hearted wife?",
+        "voteAverage": 8.316,
+        "voteCount": 49,
+        "popularity": 740.933,
+        "originalLanguage": "tr"
+    },
+    {
+        "id": 138147,
+        "adult": false,
+        "genres": [
+            "Comedy",
+            "News",
+            "Talk"
+        ],
+        "title": "De Avondshow met Arjen Lubach",
+        "originalName": "De Avondshow met Arjen Lubach",
+        "firstAirDate": "2022-02-21",
+        "image": "https://image.tmdb.org/t/p/w500/lXQqKsUQvgBrv9t1S3Q3CGkTUAg.jpg",
+        "overview": "Arjen Lubach dives through the issues of the day past inspiring guests to the bottom of the news. Everyone always wants to go from the issues of the day to deepening. Arjen is really looking forward to the issues of the day.",
+        "voteAverage": 7.5,
+        "voteCount": 4,
+        "popularity": 1285.715,
+        "originalLanguage": "nl"
+    },
+    {
+        "id": 108466,
+        "adult": false,
+        "genres": [
+            "Reality"
+        ],
+        "title": "Alle mot alle",
+        "originalName": "Alle mot alle",
+        "firstAirDate": "2020-08-31",
+        "image": "https://image.tmdb.org/t/p/w500/qmOYqF2ezHT1leCE91Mdm6tu3Vl.jpg",
+        "overview": "",
+        "voteAverage": 8.0,
+        "voteCount": 1,
+        "popularity": 1435.165,
+        "originalLanguage": "no"
+    },
+    {
+        "id": 63770,
+        "adult": false,
+        "genres": [
+            "Comedy",
+            "Talk"
+        ],
+        "title": "The Late Show with Stephen Colbert",
+        "originalName": "The Late Show with Stephen Colbert",
+        "firstAirDate": "2015-09-08",
+        "image": "https://image.tmdb.org/t/p/w500/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
+        "overview": "Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late night, where he talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show is broadcast from the historic Ed Sullivan Theater. Stephen Colbert, Chris Licht, Tom Purcell, and Jon Stewart are executive producers. Barry Julien and Denise Rehrig serve as co-executive producers.must watch",
+        "voteAverage": 6.535,
+        "voteCount": 271,
+        "popularity": 1297.136,
+        "originalLanguage": "en"
+    },
+    {
+        "id": 32209,
+        "adult": false,
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Soap"
+        ],
+        "title": "Al Fondo Hay Sitio",
+        "originalName": "Al Fondo Hay Sitio",
+        "firstAirDate": "2009-03-30",
+        "image": "https://image.tmdb.org/t/p/w500/g7cuCCkvoBuSwemTHYz3k0hvvmz.jpg",
+        "overview": "Al fondo hay sitio is a Peruvian TV series created in 2008-2009 by Efraín Aguilar. It deals with the problems of social differences and economic status. It's one of the most popular shows in Peru and is now being shown in Ecuador, Bolivia, Paraguay and Uruguay.",
+        "voteAverage": 7.819,
+        "voteCount": 213,
+        "popularity": 1508.653,
+        "originalLanguage": "es"
+    },
+    {
+        "id": 45789,
+        "adult": false,
+        "genres": [
+            "Drama",
+            "Soap"
+        ],
+        "title": "Sturm der Liebe",
+        "originalName": "Sturm der Liebe",
+        "firstAirDate": "2005-09-26",
+        "image": "https://image.tmdb.org/t/p/w500/jfFNydakwvbeACEwSd2Gh8UWtba.jpg",
+        "overview": "These are the stories of relationships taking place in the fictional five-star hotel Fürstenhof, located in Feldkirchen-Westerham near Rosenheim with the plot revolving around members of the family room area, the hotel owners, and employees.",
+        "voteAverage": 6.0,
+        "voteCount": 29,
+        "popularity": 1613.039,
+        "originalLanguage": "de"
+    },
+    {
+        "id": 1416,
+        "adult": false,
+        "genres": [
+            "Drama"
+        ],
+        "title": "Grey's Anatomy",
+        "originalName": "Grey's Anatomy",
+        "firstAirDate": "2005-03-27",
+        "image": "https://image.tmdb.org/t/p/w500/7jEVqXC14bhfAzSPgr896dMdDv6.jpg",
+        "overview": "Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital.",
+        "voteAverage": 8.2,
+        "voteCount": 10198,
+        "popularity": 1579.108,
+        "originalLanguage": "en"
+    },
+    {
+        "id": 4614,
+        "adult": false,
+        "genres": [
+            "Action & Adventure",
+            "Crime",
+            "Drama"
+        ],
+        "title": "NCIS",
+        "originalName": "NCIS",
+        "firstAirDate": "2003-09-23",
+        "image": "https://image.tmdb.org/t/p/w500/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
+        "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a shred of evidence connected to Navy and Marine Corps personnel, regardless of rank or position.",
+        "voteAverage": 7.6,
+        "voteCount": 2245,
+        "popularity": 816.206,
+        "originalLanguage": "en"
+    },
+    {
+        "id": 14750,
+        "adult": false,
+        "genres": [
+            "Soap"
+        ],
+        "title": "Na Wspólnej",
+        "originalName": "Na Wspólnej",
+        "firstAirDate": "2003-01-27",
+        "image": "https://image.tmdb.org/t/p/w500/uksRhdaOn64bO5d33d7rcTbrhJI.jpg",
+        "overview": "Na Wspólnej is a Polish soap opera. It has been running since 2003 on the TVN channel as its flagship primetime weekday soap opera. It is loosely based on the German production Unter Uns and it follows the lives of the inhabitants of an apartment block in Wspólna Street, Warsaw. Episodes tend to last around 20 minutes. It is a Polish version of the Hungarian \"Barátok közt\".\n\nThe series is shot almost entirely in Warsaw and produced by the Polish branch of Freemantle Media. On 9 September 2008 it celebrated its 1000th episode; \"Na Wspólnej\" was the fourth Polish television series ever to achieve such status. A special episode was broadcast in which characters from some other of TVN's most popular shows visited Wspólna Street.",
+        "voteAverage": 5.3,
+        "voteCount": 7,
+        "popularity": 1361.427,
+        "originalLanguage": "pl"
+    },
+    {
+        "id": 911,
+        "adult": false,
+        "genres": [
+            "Reality"
+        ],
+        "title": "Kaun Banega Crorepati",
+        "originalName": "कौन बनेगा करोड़पति",
+        "firstAirDate": "2000-07-03",
+        "image": "https://image.tmdb.org/t/p/w500/8srHjzgZq9V9sgsTkIwGARDyADj.jpg",
+        "overview": "Hosted by India's biggest superstar, Amitabh Bachchan, one of the biggest shows is here to entertain millions, change lives and make dreams come true.",
+        "voteAverage": 7.0,
+        "voteCount": 25,
+        "popularity": 913.718,
+        "originalLanguage": "hi"
+    },
+    {
+        "id": 2734,
+        "adult": false,
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "title": "Law & Order: Special Victims Unit",
+        "originalName": "Law & Order: Special Victims Unit",
+        "firstAirDate": "1999-09-20",
+        "image": "https://image.tmdb.org/t/p/w500/abWOCrIo7bbAORxcQyOFNJdnnmR.jpg",
+        "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+        "voteAverage": 7.9,
+        "voteCount": 3799,
+        "popularity": 1365.153,
+        "originalLanguage": "en"
+    }
+]
+

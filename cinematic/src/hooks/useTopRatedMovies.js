@@ -30,6 +30,7 @@ const useTopRatedMovies = () => {
         console.error('Error fetching top-rated movies:', error);
       }
     };
+    
 
     fetchTopRatedMovies();
   }, [dispatch]); // Empty dependency array ensures it runs only once after mount

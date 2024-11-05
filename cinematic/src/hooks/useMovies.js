@@ -9,15 +9,16 @@ const useMovies = () => {
 
   useEffect(() => {
     const fetchMovies = async () => {
-      // const options = {
-      //   method: "GET",
-      //   url: "https://myanimelist.p.rapidapi.com/anime/top/all",
-      //   params: { p: "1" },
-      //   headers: {
-      //     "x-rapidapi-key": "02a23e56d8msh98e82cc476a9c70p164c75jsn03a98f4f3c74",
-      //     "x-rapidapi-host": "myanimelist.p.rapidapi.com",
-      //   },
-      // };
+    
+      const options = {
+        method: "GET",
+        url: "https://myanimelist.p.rapidapi.com/anime/top/all",
+        params: { p: "1" },
+        headers: {
+          "x-rapidapi-key": "02a23e56d8msh98e82cc476a9c70p164c75jsn03a98f4f3c74",
+          "x-rapidapi-host": "myanimelist.p.rapidapi.com",
+        },
+      };
 
       try {
         const response = await axios.request(`${API_ENDPOINT}/anime-list`);
